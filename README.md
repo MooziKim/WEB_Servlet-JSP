@@ -1,5 +1,5 @@
 # WEB_Servlet-JSP
-Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제작 (아모레퍼시픽 참고 구현)
+Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제작 ( 프론트 부분은 아모레퍼시픽 참고해서 구현하였습니다. )
 
 = 기능 및 요구사항
 
