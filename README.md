@@ -1,5 +1,8 @@
 # WEB_Servlet-JSP
-Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제작 ( 프론트 부분은 아모레퍼시픽 참고해서 구현하였습니다. )
+Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제작 
+( 프론트 부분은 아모레퍼시픽 참고해서 구현하였습니다. )
+
+프로젝트 소요 기간 : 2024.01.05 ~ 2024.02.08
 
 = 기능 및 요구사항
 
@@ -50,7 +53,7 @@ Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제�
 
 === 기능
 * 상품 카테고리 관리
-** 1단계 카테고리를 구현
+** 카테고리를 구현
 ** 정렬 : 정렬순서에 의한 오름차순 정렬
 
 * 상품 관리
@@ -83,8 +86,7 @@ Website using servlet and JSP // 서블릿과 jsp를 이용한 웹사이트 제�
 === View 구현
 * View는 JSP를 사용합니다.
 * JSP로 작성된 페이지는 반드시 FrontServlet에 의해서 호출되어야 합니다.
-* 과도한 Scriptlet을 사용하지 않습니다.
-
+* 
 === 회원
 * 사용자는 아이디, 비밀번호를 이용하여 로그인합니다.
 * 로그인하면 사용자를 식별할 수 있는 Session이 생성되며 60분 동안 유지됩니다.
